@@ -4,7 +4,7 @@ See the live version of [Image Slider](https://bartekb94.github.io/03-ImgSlider-
 ###   Features
 - choosing group of images and displaying them as a slider
 - changing image by clicking "Next/Previous" button
-- photos are switched automatically as a slide show
+- images are changing automatically as a slide show
 
 ---
 
